@@ -1,0 +1,14 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open backgroundImage.html",
+            "file": "c:\\Users\\garci\\OneDrive\\Documentos\\Documento HTML\\HTML\\HTML-CSS\\Desafios\\DESAFIO3\\Fundo\\backgroundImage\\backgroundImage.html"
+        }
+    ]
+}

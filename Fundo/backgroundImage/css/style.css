@@ -1,0 +1,40 @@
+body {
+    background-image: url(../img/hacker.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+main{
+
+    min-width: 320px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.credit {
+    background-color: #ffffff;
+            padding: 20px;
+            border-radius:10px;
+
+            min-width: 320px;
+            max-width: 1000px;
+            margin: auto;
+    
+    
+}
+
+.h1{
+    text-align: center;
+}
+
+.credit a {
+    color: rgba(64, 224, 208, 0);
+    transition: 1s;
+    
+}
+
+.credit a:hover {
+    color: white;
+    text-shadow: 0 0 8px white;
+}

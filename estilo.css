@@ -1,0 +1,107 @@
+#FIMfim{
+    bottom: px;
+    width: 100%;
+    min-width: 600px;	background-image:url('https://1.bp.blogspot.com/-fpQX8a_7HK4/Xo6UE3HhHgI/AAAAAAAAGxw/-l8ycMvFMOMPog0BgP_5aa8p7M9Ua1dqwCLcBGAsYHQ/s1600/wall.png');
+    color: white;
+    padding-bottom: 40px;
+    margin-left: -5px;
+    margin-right:  2px;
+    margin-top: -6px;
+    height: 260px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;  
+    display: flex;
+    padding-top: 40px;  
+    box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
+    }
+    #col1{
+    min-width: 120px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-bottom:  230px;
+    width: 250px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 55px;
+    display: inline-block;
+    text-align: left;
+    line-height: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    position:unset;  
+    }
+    .container{
+        width: 340px;
+        height: 240px;
+        border-radius: 5%;
+        box-shadow: 2px;
+        padding-left: -px;
+        padding-right: 0002px;
+        background-position: top left;
+    }
+
+    
+    #col2{
+    min-width: 120px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-top: -180px;
+    width: 150px;
+    padding-left: 0px;
+    padding-right: 75px;
+    height: 55px;
+    display: inline-block;
+    text-align: left;
+    line-height: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    position: relative;   
+    }
+    #col3{
+    min-width: 120px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-top: -180px;
+    width: 170px;
+    padding-left: 5px;
+    padding-right: 0px;
+    height: 55px;
+    display: inline-block;
+    text-align: left;
+    line-height: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    position: relative;   
+    }
+    #col4{
+    text-align: center;
+    min-width: 120px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-bottom:  50px;
+    width: 180px;
+    padding-left: 0px;
+    padding-right: 20px;
+    height: 55px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    position: relative;   
+    padding-bottom: 30px;
+    }
+    .rdp:link {
+    text-decoration: none;
+    color: white;	
+    }
+    .rdp:visited {
+    text-decoration: none;
+    color: white;
+    }
+    .rdp:hover {
+    letter-spacing: 3px;
+    color: white;
+    -webkit-transition: 0.2s ease-out;
+    -moz-transition: 0.2s ease-out;
+    -o-transition: 0.2s ease-out;
+    transition: 0.2s ease-out;
+    }
